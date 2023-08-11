@@ -35,7 +35,7 @@ Para começar a explorar e interagir com o Food Explorer Frontend, siga as instr
 Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu sistema.
 
     # Clone este repositório para o seu computador:
-    $ git clone <URL_DO_REPOSITÓRIO>
+    $ git clone git@github.com:valtuir-sturlini/food-explorer-frontend.git
 
     # Navegue até o diretório do Frontend no terminal:
     $ cd food-explorer-frontend
