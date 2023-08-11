@@ -34,16 +34,16 @@ Para começar a explorar e interagir com o Food Explorer Frontend, siga as instr
 
 Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em seu sistema.
 
-    # Clone este repositório para o seu computador:
+    Clone este repositório para o seu computador:
     $ git clone git@github.com:valtuir-sturlini/food-explorer-frontend.git
 
-    # Navegue até o diretório do Frontend no terminal:
+    Navegue até o diretório do Frontend no terminal:
     $ cd food-explorer-frontend
 
-    # Instale as dependências necessárias:
+    Instale as dependências necessárias:
     $ npm install
 
-    # Agora, você pode iniciar a aplicação do Frontend:
+    Agora, você pode iniciar a aplicação do Frontend:
     $ npm start
 
 ## Perfis Pré-cadastrados
@@ -61,3 +61,8 @@ O perfil de administrador tem privilégios elevados, permitindo gerenciar pratos
 - Senha: 123456
 
 O perfil de usuário comum tem permissões básicas, como visualizar pratos cadastrados, realizar buscas e adicionar itens ao carrinho.
+
+## Deploy
+
+Este frontend está atualmente hospedado no Netlify, e você pode ver o resultado final da integração com o backend [aqui](https://project-explorer.netlify.app/).
+
